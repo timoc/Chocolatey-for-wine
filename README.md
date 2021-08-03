@@ -31,3 +31,6 @@ Notes:
     - powershell64.exe to ~/.wine/drive_c/windows/system32/WindowsPowerShell/v1.0/powershell.exe
 
     and do "wine powershell"
+
+  - Discussion on this patch in the wineHQ forums:
+    https://forum.winehq.org/viewtopic.php?f=2&t=33963
